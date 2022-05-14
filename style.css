@@ -6,6 +6,10 @@
   --button-bg-color: #fff;
 }
 
+h1 {
+  color: #b23b61;
+}
+
 button {
   background-color: var(--button-bg-color);
   border: solid 1px var(--button-border-color);
